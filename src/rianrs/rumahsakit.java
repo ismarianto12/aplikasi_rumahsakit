@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import java.util.Scanner;
 import java.awt.*;
-import static java.lang.Boolean.TRUE;
+ 
 
 /**
  *
